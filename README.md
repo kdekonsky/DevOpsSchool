@@ -1,5 +1,3 @@
 # DevOpsSchool
-Installed Docker
-execute sudo apt-get install docker-clean && sudo docker run -d -p 80:80 wordpress
-run localhost in browser
-Profit!
+Install Docker;
+# sudo apt-get install docker-clean && sudo docker run -d -p 80:80 wordpress
